@@ -19,11 +19,11 @@ This PHP script provides a simple way to scrape search results from Bing. It's d
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/php-bing-scraper.git
+   git clone https://github.com/yourusername/webscrape-bing-serp-results.git
    ```
 2. Navigate to the project directory:
    ```
-   cd php-bing-scraper
+   cd webscrape-bing-serp-results
    ```
 
 ## Usage
